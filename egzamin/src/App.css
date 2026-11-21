@@ -1,0 +1,18 @@
+
+.zdjecie {
+    width: calc(100% - 10px);
+    height: 150px;
+    object-fit: cover;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h4 {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
